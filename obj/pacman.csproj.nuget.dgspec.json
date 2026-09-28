@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bebbe\\Desktop\\pacman\\pacman.csproj": {}
+    "C:\\Users\\bebbe\\Documents\\GitHub\\pacman\\pacman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bebbe\\Desktop\\pacman\\pacman.csproj": {
+    "C:\\Users\\bebbe\\Documents\\GitHub\\pacman\\pacman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bebbe\\Desktop\\pacman\\pacman.csproj",
+        "projectUniqueName": "C:\\Users\\bebbe\\Documents\\GitHub\\pacman\\pacman.csproj",
         "projectName": "pacman",
-        "projectPath": "C:\\Users\\bebbe\\Desktop\\pacman\\pacman.csproj",
+        "projectPath": "C:\\Users\\bebbe\\Documents\\GitHub\\pacman\\pacman.csproj",
         "packagesPath": "C:\\Users\\bebbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bebbe\\Desktop\\pacman\\obj\\",
+        "outputPath": "C:\\Users\\bebbe\\Documents\\GitHub\\pacman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bebbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
